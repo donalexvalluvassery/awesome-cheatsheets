@@ -1,0 +1,8 @@
+Quit emacs: C-c C-x
+Save file: C-x C-s
+Save all buffers: C-x s
+Suspend emacs: C-z
+Read file: C-x C-f
+Insert contents of one file to buffer: C-x i
+Write buffer to file: C-x C-w
+Toggle read only mode: C-q
